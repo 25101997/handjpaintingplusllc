@@ -77,16 +77,15 @@ body{
     border: 1px transparent solid;
 }
 
+
 .btn-outline-orange{
     border: 1px #f57b00 solid;
     color: #f57b00;
 }
-
 .btn-outline-orange:hover{
     background-color: #f57b00;
     color: white;
 }
-
 .btn-orange{
     background-color: #ffc107;
     color: white;
@@ -119,6 +118,11 @@ body{
 
 .text-orange{
     color: #ffc107;
+}
+
+
+.bg-middle-orange{
+    background-color: #ffc107;
 }
 
 .bg-light-gray{
